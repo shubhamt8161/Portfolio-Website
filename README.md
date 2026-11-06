@@ -1,72 +1,45 @@
-# 📊 Shubham Santosh Talekar — Python Developer & Data Analyst Portfolio
+# Shubham Santosh Talekar — Portfolio
 
-A modern, responsive portfolio website built with **pure HTML5, CSS3, and modern Vanilla JavaScript (ES6+)**. Showcasing projects in **Python, SQL (PostgreSQL & MySQL), Power BI, Excel, and Data Analytics**.
+Personal portfolio website for **Shubham Santosh Talekar**, a Python Developer and Data Analyst based in Mumbai, India. The site highlights selected projects, technical skills, education, and ways to get in touch.
 
----
+## Live Demo
 
-## 👨‍💻 Profile Highlights
+Visit the portfolio: **[shubham-talekar.netlify.app](https://shubham-talekar.netlify.app)**
 
-- **Name**: Shubham Santosh Talekar
-- **Location**: Mumbai, Maharashtra, India
-- **Education**: Bachelor of Science in Computer Science (BSc CS, 2023–2026), PVG College of Science & Technology, Mumbai | **CGPA: 8.14**
-- **Roles**: Python Developer | Data Analyst | Currently Learning Frontend Development
-- **Contact**: [shubhamt8161@gmail.com](mailto:shubhamt8161@gmail.com)
-- **GitHub**: [github.com/shubhamt8161](https://github.com/shubhamt8161)
-- **LinkedIn**: [linkedin.com/in/shubhamtalekar07](https://www.linkedin.com/in/shubhamtalekar07/)
+## About
 
----
+I work with Python, SQL, Power BI, and Excel to explore data and build useful analytical solutions. I am currently pursuing a Bachelor of Science in Computer Science at PVG College of Science & Technology, Mumbai (2023–2026).
 
-## 🚀 Featured Projects Included
+## Featured Projects
 
-1. **Prime Mart – Retail Sales Analytics Dashboard**
-   - Cleaned and analyzed 10,000+ sales records and 4,000+ customer orders using Python, SQL, and Excel.
-   - Built interactive Power BI dashboard tracking revenue, profit margins, regional performance, and customer purchasing patterns.
-2. **Online Book Store – SQL Data Analysis**
-   - Designed normalized relational database in PostgreSQL.
-   - Wrote 20 analytical SQL queries using joins, aggregations, GROUP BY, HAVING, and subqueries.
-3. **Audio Extractor Desktop Application**
-   - Python GUI desktop application built with Tkinter and MoviePy.
-   - Multithreaded background processing to extract MP3 audio from video files.
+- **Prime Mart — Retail Sales Analytics:** Analysis of 10,000+ sales records and 4,000+ customer orders using Python, SQL, and Excel, with an interactive Power BI dashboard.
+- **Online Book Store — SQL Analysis:** A normalized PostgreSQL database and analytical queries using joins, aggregations, and subqueries.
+- **Audio Extractor — Desktop Application:** A Python and Tkinter application that extracts MP3 audio from video files, with background processing.
 
----
+## Highlights
 
-## 📜 Certifications & Simulations (in order)
+- Responsive portfolio layout
+- Dark and light themes
+- Interactive skills and project sections
+- Project details and contact section
+- Built with HTML, CSS, and vanilla JavaScript
 
-1. **Deloitte – Data Analytics Job Simulation** (Forage)
-2. **Complete Data Analyst Bootcamp: From Basics to Advanced** (Udemy)
-3. **Tata – GenAI Powered Data Analytics Simulation** (Forage)
-4. **Ultimate Job-Ready AI-Powered Data Analytics Course** (CWH)
+## Run Locally
 
----
+This is a static website and does not require a build step.
 
-## 📁 File Structure
-
-```text
-├── index.html       # Semantic HTML5 markup, structured resume sections & meta tags
-├── style.css        # Modular CSS3 stylesheet, variables, glassmorphism, responsive grid
-├── script.js        # Vanilla JS interactive engine (canvas, typing, modal, filter, toasts)
-└── README.md        # Documentation and guide
-```
-
----
-
-## 🌐 How to Deploy for Free
-
-### Option 1: GitHub Pages (Recommended)
-1. Push this folder to a new GitHub repository:
+1. Clone the repository:
    ```bash
-   git init
-   git add .
-   git commit -m "Shubham Talekar Portfolio Website"
-   git branch -M main
-   git remote add origin https://github.com/shubhamt8161/<repo-name>.git
-   git push -u origin main
+   git clone https://github.com/shubhamt8161/Portfolio-Website.git
    ```
-2. Go to **Settings** > **Pages** in your repository.
-3. Under **Branch**, select `main` and click **Save**.
-4. Your website is live worldwide!
+2. Open `index.html` in your browser.
 
-### Option 2: Netlify (Drag and Drop)
-1. Visit [Netlify.com](https://www.netlify.com/).
-2. Drag and drop the `Portfoil website` folder into Netlify.
-3. Your site gets a free live URL immediately!
+## Deployment
+
+The site can be deployed as a static website on Netlify or GitHub Pages. For Netlify, import the repository and use the repository root as the publish directory; no build command is required.
+
+## Contact
+
+- **Email:** [shubhamt8161@gmail.com](mailto:shubhamt8161@gmail.com)
+- **GitHub:** [github.com/shubhamt8161](https://github.com/shubhamt8161)
+- **LinkedIn:** [linkedin.com/in/shubhamtalekar07](https://www.linkedin.com/in/shubhamtalekar07/)
